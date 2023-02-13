@@ -5,12 +5,9 @@ Video Games (alexh555)
 Playing Drums (vubt)
 Soccer (mtchapmi)
 Languages (akshay01 jdkula)
-<<<<<<< HEAD
 Drawing (jdkula cfigg alexh555)
 Watching Netflix (cfigg avajeffs mtchapmi albionst)
-=======
 Drawing (jdkula cfigg alexh555 swulee)
 Watching Netflix (cfigg avajeffs mtchapmi)
 Dancing (swulee)
->>>>>>> origin/main
 
